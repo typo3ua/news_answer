@@ -1,9 +1,10 @@
 <?php
 defined('TYPO3_MODE') or die();
+$ll = 'LLL:EXT:news_answer/Resources/Private/Language/locallang_db.xlf:';
 $fields = [
     'tt_content_feuser_user' => [
         'exclude' => true,
-        'label' => 'LLL:EXT:news_feuser/Resources/Private/Language/locallang.xlf:tx_news_domain_model_news.tx_newsfeuser_user',
+        'label' => $ll . 'tt_content.tt_content_feuser_user',
         'config' => [
             'type' => 'group',
             'internal_type' => 'db',
