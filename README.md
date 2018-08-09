@@ -1,7 +1,7 @@
 # TYPO3 CMS Extension news_answer
 
+- Extend EXT:news to add the new field **answer** for section 'Forum' on the website of the TYPO3 User Groups from Ukraine
 - This extension extends the tt_content record by a relation to a **FE User**.
-- This extension extends the news record by a relation to a **tt_content - Answer**.
 
 ## Requirements
 
