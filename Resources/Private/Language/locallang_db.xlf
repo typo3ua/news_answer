@@ -1,1 +1,17 @@
-
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-06-02T20:47:10Z" product-name="news_answer">
+		<header/>
+		<body>
+			<trans-unit id="tt_content.tt_content_feuser_user" xml:space="preserve">
+				<source>FE User</source>
+			</trans-unit>
+      <trans-unit id="tx_news_domain_model_news.content_elements_answer" xml:space="preserve">
+				<source>Content elements - Answer</source>
+			</trans-unit>
+			<trans-unit id="tx_news_domain_model_news.content_elements_answer.description" xml:space="preserve">
+				<source>Content elements can be used to generate feature rich news articles - answer.</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
