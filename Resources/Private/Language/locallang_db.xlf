@@ -6,7 +6,7 @@
 			<trans-unit id="tt_content.tt_content_feuser_user" xml:space="preserve">
 				<source>FE User</source>
 			</trans-unit>
-      <trans-unit id="tx_news_domain_model_news.content_elements_answer" xml:space="preserve">
+			<trans-unit id="tx_news_domain_model_news.content_elements_answer" xml:space="preserve">
 				<source>Content elements - Answer</source>
 			</trans-unit>
 			<trans-unit id="tx_news_domain_model_news.content_elements_answer.description" xml:space="preserve">
