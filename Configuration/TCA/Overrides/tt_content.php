@@ -14,13 +14,11 @@ $fields = [
             'minitems' => 0,
             'maxitems' => 1010,
             'default' => '',
-            'wizards' => [
-                'suggestOptions' => [
-                    'type' => 'suggest',
-                    'default' => [
-                        'searchWholePhrase' => true
-                    ]
-                ],
+            'suggestOptions' => [
+                'type' => 'suggest',
+                'default' => [
+                    'searchWholePhrase' => true
+                ]
             ],
         ]
     ]
