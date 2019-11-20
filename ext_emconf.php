@@ -8,13 +8,18 @@ $EM_CONF[$_EXTKEY] = [
     'author_company' => 'vasyl.net',
     'state' => 'stable',
     'clearCacheOnLoad' => 1,
-    'version' => '1.0.0',
+    'version' => '9.5.10',
     'constraints' => [
         'depends' => [
-            'typo3' => '8.7.0-9.9.99',
+            'typo3' => '8.7.0-9.5.99',
             'news' => '6.0.0-7.9.99'
         ],
         'conflicts' => [],
         'suggests' => [],
+    ],
+    'autoload' => [
+        'psr-4' => [
+            'T3UA\\NewsAnswer\\' => 'Classes'
+        ],
     ],
 ];

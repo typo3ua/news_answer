@@ -3,7 +3,7 @@
 	<file source-language="en" datatype="plaintext" original="messages" date="2018-06-02T20:47:10Z" product-name="news_answer">
 		<header/>
 		<body>
-			<trans-unit id="tt_content.tt_content_feuser_user" xml:space="preserve">
+			<trans-unit id="tt_content.tt_contentfeuser_user" xml:space="preserve">
 				<source>FE User</source>
 			</trans-unit>
 			<trans-unit id="tx_news_domain_model_news.content_elements_answer" xml:space="preserve">

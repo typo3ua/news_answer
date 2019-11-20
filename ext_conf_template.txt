@@ -1,1 +1,7 @@
+# Records
+###########################
+# cat=records/enable/110; type=boolean; label=LLL:EXT:news_answer/Resources/Private/Language/locallang_be.xlf:extmng.contentElementAnswerRelation
+contentElementAnswerRelation = 1
 
+# cat=records/enable/111; type=boolean; label=LLL:EXT:news_answer/Resources/Private/Language/locallang_be.xlf:extmng.contentElementAnswerPreview
+contentElementAnswerPreview = 1

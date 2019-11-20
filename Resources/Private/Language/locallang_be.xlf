@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" datatype="plaintext" original="messages" date="2019-10-02T11:47:18Z" product-name="news">
+        <header/>
+        <body>
+            <trans-unit id="extmng.contentElementAnswerRelation" xml:space="preserve">
+                <source>Use content element answer relation:If set, content elements answer can be added to news records.</source>
+            </trans-unit>
+            <trans-unit id="extmng.contentElementAnswerPreview" xml:space="preserve">
+                <source>Improved preview of content element answer relations:If set, the preview in the backend is rendered as in the page module.</source>
+            </trans-unit>
+            <trans-unit id="hiddenContentElementsAnswer.description">
+                <source>Content elements (ext:news_answer) are hidden in sys folders of type "topics"!</source>
+            </trans-unit>
+            <trans-unit id="t3ua.topics.folder">
+                <source>Topics</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
