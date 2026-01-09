@@ -12,3 +12,7 @@
 ## Installation
 
 Install the extension as any other extension.
+
+## Support
+
+This project is tested with BrowserStack.
